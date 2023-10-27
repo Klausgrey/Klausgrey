@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Upaka Nichoals (Klausgrey_)</h1>
 <h3 align="center">A passionate software engineering from Nigeria</h3>
 
-img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fweb-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg&tbnid=1V2cUs9XZp_hxM&vet=12ahUKEwj2ks-OrpeCAxW_oScCHXuTBpsQMygbegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&w=626&h=417&q=animated%20coding%20images&ved=2ahUKEwj2ks-OrpeCAxW_oScCHXuTBpsQMygbegUIARCXAQ)"
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fweb-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg&tbnid=1V2cUs9XZp_hxM&vet=12ahUKEwj2ks-OrpeCAxW_oScCHXuTBpsQMygbegUIARCXAQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcartoon-programmer&docid=fGhGejc-bkdiaM&w=626&h=417&q=animated%20coding%20images&ved=2ahUKEwj2ks-OrpeCAxW_oScCHXuTBpsQMygbegUIARCXAQ)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klausgrey&label=Profile%20views&color=0e75b6&style=flat" alt="klausgrey" /> </p>
 
