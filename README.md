@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Upaka Nichoals (Klausgrey_)</h1>
 <h3 align="center">A passionate software engineering from Nigeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Fpremium-vector%2Fprogrammer-working-concept-web-banner-man-work-with-code-programming-computer_9209-7397.jpg&tbnid=2p2FSDlqop3FIM&vet=12ahUKEwj2ks-OrpeCAxW_oScCHXuTBpsQMyg_egUIARD_AQ..i&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fcoding-cartoon&docid=jLDLrp6-ePigWM&w=626&h=417&q=animated%20coding%20images&ved=2ahUKEwj2ks-OrpeCAxW_oScCHXuTBpsQMyg_egUIARD_AQ">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-cartoon">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=klausgrey&label=Profile%20views&color=0e75b6&style=flat" alt="klausgrey" /> </p>
 
