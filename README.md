@@ -1,12 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 <h1 align="center">Hi 👋, I'm Upaka Nichoals (Klausgrey_)</h1>
 <h3 align="center">A passionate software engineering from Nigeria</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-photos-vectors/coding-cartoon"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=klausgrey&label=Profile%20views&color=0e75b6&style=flat" alt="klausgrey" /> </p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=klausgrey" alt="klausgrey" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/klausgrey_" target="blank"><img src="https://img.shields.io/twitter/follow/klausgrey_?logo=twitter&style=for-the-badge" alt="klausgrey_" /></a> </p>
 
