@@ -1,15 +1,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
-<h1 align="center">Hi 👋, I'm Upaka Nichoals (Klausgrey_)</h1>
-<h3 align="center">A passionate software engineering from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Upaka Nicholas (please call me nic)</h1>
+<h3 align="center">A passionate software engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-<p align="left"> <a href="https://twitter.com/n1ckkkk__" target="blank"><img src="https://img.shields.io/twitter/follow/klausgrey_?logo=twitter&style=for-the-badge" alt="klausgrey_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/n1ck_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/klausgrey_?logo=twitter&style=for-the-badge" alt="klausgrey_" /></a> </p>
 
-- 🌱 I’m currently learning **C Programming Language, CSS, HTML, Bootstrap, JavaScript and Python**
-
-- 💬 Ask me about **C Programming Language, HTML & CSS**
+- 🌱 I’m currently learning **JavaScript, and Python**
 
 - 📫 How to reach me **danielnick210@gmail.com**
 
@@ -17,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/n1ckkkk__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n1ckkkk__" height="30" width="40" /></a>
+<a href="https://twitter.com/n1ckkkk__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n1ckk_xyz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nicholas upaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicholas upaka" height="30" width="40" /></a>
 </p>
 
