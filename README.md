@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 
-<p align="left"> <a href="https://twitter.com/n1ck_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/klausgrey_?logo=twitter&style=for-the-badge" alt="klausgrey_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/n1ck_xyz" target="blank"><img src="https://img.shields.io/twitter/follow/nic?logo=twitter&style=for-the-badge" alt="klausgrey_" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript, and Python**
 
