@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
 <h1 align="center">Hi 👋, I'm Upaka Nicholas (please call me nic)</h1>
-<h3 align="center">A passionate software engineering</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
